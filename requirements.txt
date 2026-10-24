@@ -1,0 +1,13 @@
+setuptools
+dill
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn==1.9.1
+catboost
+xgboost
+Flask
+pytest
+
+# -e .
